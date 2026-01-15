@@ -1,0 +1,23 @@
+<resources>
+    <string name="inv_app_name">Global iNavi Navigation Demo</string>
+    <string name="inv_category">category</string>
+
+    <!-- Map -->
+    <string name="inv_category_map">Map</string>
+
+    <!-- Map Mode -->
+    <string name="inv_category_map_mode">Map Mode</string>
+
+    <string name="inv_map_fragment">General Map</string>
+    <string name="inv_description_map_fragment">Display the map using MapFragment</string>
+
+    <string name="inv_map_marker">Add Marker</string>
+    <string name="inv_description_map_marker">Display markers using the MapFragment API</string>
+
+    <string name="inv_map_camera">Move Camera</string>
+    <string name="inv_description_map_camera">Move the map using the MapFragment API</string>
+
+    <string name="inv_remove_marker">Delete all markers</string>
+    <string name="inv_move_camera">Move Camera</string>
+
+</resources>
